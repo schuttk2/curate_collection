@@ -1,9 +1,9 @@
 body {
-   font-family: 'Stint Ultra Expanded', serif;
+   font-family: "Teko", sans-serif;
    margin: 0;
    padding: 0;
    color: #270a2a;
-   font-weight: bold;
+   letter-spacing: .1rem;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
 }
 
 a:hover {
-   color: #b44a6c;
+   color: #ca728e;
 }
 
 h1 a {
@@ -65,16 +65,18 @@ ul {
    padding: 0;
 }
 
+p {
+   color: #333;
+   margin-left: 50px;
+   font-size: larger;
+}
+
 p a {
    color: #333;
    text-decoration: none;
    margin-left: 25px;
+   font-size: larger;
 
-}
-
-p {
-   color: #333;
-   margin-left: 50px;
 }
 
 img {
